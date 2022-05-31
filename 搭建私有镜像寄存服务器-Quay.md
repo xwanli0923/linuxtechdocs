@@ -8,12 +8,19 @@ modified: '2022-05-31T15:32:43.401Z'
 
 ---
 > Operating System: Red Hat Enterprise Linux 8.6 (Ootpa)
+> 
 > Kernel: Linux 4.18.0-372.9.1.el8.x86_64
+> 
 > Architecture: x86-64
+> 
 > Static hostname: registry.lab.example.com
+> 
 > CPU: 2 vCPU
-> Meomory: 8GiB
+> 
+> Memory: 8GiB
+> 
 > 可以访问互联网,且有OpenShift Container Platform订阅
+> 
 > IP Address: 192.168.100.105/24
 
 
