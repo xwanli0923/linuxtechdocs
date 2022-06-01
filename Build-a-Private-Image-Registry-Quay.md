@@ -36,7 +36,7 @@ modified: '2022-05-31T15:39:48.031Z'
 $ sudo yum install vim jq 
 $ sudo yum module install container-tools
 ```
-3. 登录 [OpenShift控制台Downloads页面下载](https://console.redhat.com/openshift/downloads#tool-mirror-registry) 下载所需的软件包：
+3. 登录 [OpenShift控制台Downloads页面](https://console.redhat.com/openshift/downloads#tool-mirror-registry) 下载所需的软件包：
 - `mirror-registry.tar.gz`
 - `openshift-client-linux.tar.gz`
 > 下载的位置空间至少`10GiB`可用空间
