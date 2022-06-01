@@ -17,7 +17,7 @@ modified: '2022-05-31T15:39:48.031Z'
 >
 > CPU: 2 vCPU
 >
-> Meomory: 8GiB
+> Memory: 8GiB
 >
 > 可以访问互联网,且有OpenShift Container Platform订阅
 >
@@ -105,7 +105,7 @@ $ openssl req -x509 -new -nodes \
 -sha256 \
 -days 3650 \
 -out rootCA.pem \
--subj "/C=CN/ST=ZJ/L=HZ/O=Red Hat Certification Training/OU=IT Department/CN=*.lab.example.com"
+-subj "/C=CN/ST=ZJ/L=HZ/O=Red Hat Certification Training/OU=IT Department/CN=registry.lab.example.com"
 ```
 3.创建服务器私钥
 ```bash
